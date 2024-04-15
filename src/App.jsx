@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Starter from './components/Starter';
 
 export default function App() {
   return (
     <div>
-      hello
+      <Starter />
     </div>
   )
 }
